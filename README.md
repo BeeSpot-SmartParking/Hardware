@@ -61,7 +61,6 @@ The backend also integrates a **database and analytics engine** for predicting d
 
 ---
 
-## License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
