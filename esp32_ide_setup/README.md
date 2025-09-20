@@ -1,6 +1,6 @@
 # IDE Setup for ESP32 – *ParkMate Smart Parking System*
 
-<img src="images/PARKIVE.png" width="50%">
+<img src="images/1.png" width="50%">
 
 ## Why ESP32 for ParkMate?
 ---
