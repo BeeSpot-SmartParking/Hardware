@@ -3,7 +3,7 @@
 # 🐝 BeeSpot – Smart Parking Management System
 
 ## Demo
-<img src="assets/demo.gif" alt="BeeSpot Demo" width="100%">
+<img src="assets/demo.mp4" alt="BeeSpot Demo" width="100%">
 
 ---
 
