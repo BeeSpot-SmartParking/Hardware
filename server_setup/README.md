@@ -24,4 +24,3 @@ $ python3 app.py
 
 ### Monitor the parking status in real time
 
-<img src="images/webpage_demo.png" alt="webpage_demo" width="100%">
